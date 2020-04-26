@@ -1,0 +1,9 @@
+.DS_STORE
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+result.pcd
+software-validation/
+venv/
+*.o
+__pycache__/
