@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![HitCount](http://hits.dwyl.io/nulLeeKH/ph-calculator.svg)](http://hits.dwyl.io/nulLeeKH/ph-calculator)
-![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/ph-calculator.svg)
+[![HitCount](http://hits.dwyl.io/acid-base-calculation-wizard/abcw.svg)](http://hits.dwyl.io/acid-base-calculation-wizard/abcw)
+![GitHub last commit](https://img.shields.io/github/last-commit/acid-base-calculation-wizard/abcw.svg)
 
 # abcw
 The program to predict neutralization titration reaction which studied and developed in "Haksung High School" for the "2019 Science Exhibition" in South Korea
