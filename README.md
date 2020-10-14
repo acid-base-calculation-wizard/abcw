@@ -2,10 +2,10 @@
 [![HitCount](http://hits.dwyl.io/nulLeeKH/ph-calculator.svg)](http://hits.dwyl.io/nulLeeKH/ph-calculator)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/ph-calculator.svg)
 
-# ph-calculator
+# abcw
 The program to predict neutralization titration reaction which studied and developed in "Haksung High School" for the "2019 Science Exhibition" in South Korea
 
-## ABCW (Acid Base Calculation Wizard)
+## Acid Base Calculation Wizard
 
 - 제 22회 울산 과학 전람회 (22nd Ulsan Science Exhibition)
 	- Awarded : 특상 - 울산광역시 교육감 노옥희 (1st Prize - Superintendent of Education, Ulsan Metropolitan City)
