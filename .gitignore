@@ -6,4 +6,5 @@ result.pcd
 software-validation/
 venv/
 *.o
+*.dll
 __pycache__/
