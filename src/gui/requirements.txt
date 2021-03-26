@@ -7,7 +7,7 @@ numpy==1.17.3
 opencv-python==4.1.1.26
 PyQt5==5.13.1
 PyQt5-sip==12.7.0
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
 shellescape==3.4.1
 urllib3==1.25.6
