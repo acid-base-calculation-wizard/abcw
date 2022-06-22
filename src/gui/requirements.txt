@@ -3,7 +3,7 @@ chardet==3.0.4
 crypto==1.4.1
 idna==2.8
 Naked==0.1.31
-numpy==1.17.3
+numpy==1.22.0
 opencv-python==4.1.1.26
 PyQt5==5.13.1
 PyQt5-sip==12.7.0
